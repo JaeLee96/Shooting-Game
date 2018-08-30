@@ -1,5 +1,7 @@
 # ShootingGame
 
+<img width="570" alt="tunnelman demo" src="https://user-images.githubusercontent.com/32945767/44846931-c03ffb80-ac06-11e8-831a-c586fb4a94e5.png">
+
 Shooting Game created in C++ Qt Gui.
 A player has to make sure no enemy passes by him or else he will lose health points.
 When the health points drop to zero, player will lose the game.
