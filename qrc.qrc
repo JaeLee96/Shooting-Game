@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Gun_Shot-Marvin-1140816320 (1).wav</file>
+        <file>maplestory bgm.mp3</file>
+    </qresource>
+    <qresource prefix="/Background">
+        <file>background.jpg</file>
+        <file>kim jong un.jpg</file>
+        <file>bullet.png</file>
+        <file>trump.png</file>
+        <file>kim jong un.png</file>
+        <file>rock.png</file>
+        <file>bolt.png</file>
+    </qresource>
+</RCC>

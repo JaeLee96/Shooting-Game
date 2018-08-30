@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>background.jpg</file>
+        <file>bullet.jpg</file>
+        <file>kim jong un.jpg</file>
+    </qresource>
+</RCC>
